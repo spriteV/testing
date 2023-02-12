@@ -1,2 +1,3 @@
 # testing
-Testowy tekst do tworzenia commitów  v2
+# Testowy tekst do tworzenia commitów  v3
+# sprawdzamy
